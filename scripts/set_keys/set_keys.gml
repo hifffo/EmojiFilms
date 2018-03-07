@@ -1,5 +1,5 @@
 s=argument0;
-
+//123
 for (i = 0; i < 32; i++)
 a[i+1] = string_char_at(s,i);
 
